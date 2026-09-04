@@ -1,0 +1,14 @@
+<Application x:Class="CreditDsl.Wpf.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <FontFamily x:Key="DisplayFont">Segoe UI</FontFamily>
+        <SolidColorBrush x:Key="InkBrush" Color="#132238" />
+        <SolidColorBrush x:Key="MutedBrush" Color="#64748B" />
+        <SolidColorBrush x:Key="AccentBrush" Color="#0F766E" />
+        <SolidColorBrush x:Key="AccentLightBrush" Color="#CCFBF1" />
+        <SolidColorBrush x:Key="PanelBrush" Color="#FFFFFF" />
+        <SolidColorBrush x:Key="CanvasBrush" Color="#F2F6F5" />
+    </Application.Resources>
+</Application>
