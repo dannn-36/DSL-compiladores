@@ -35,4 +35,5 @@ La solución corresponde a un DSL interno porque el lenguaje de reglas se expres
 
 ## Declaracion sobre el uso de IA en el desarrollo de este proyecto
 - Se utilizó la asistencia de inteligencia artifical generativa para la creacion de la interfaz gráfica usando WPF y la corrección y refactorizacion de la lógica
-**PROMPT UTILIZADO**:A partir de este código y reglas de aprobación de crédito, necesito asistencia en la creación de una interfaz gráfica utilizando WPF y refactorización del código actual en caso de ser necesario
+
+- **PROMPT UTILIZADO**:A partir de este código y reglas de aprobación de crédito, necesito asistencia en la creación de una interfaz gráfica utilizando WPF y refactorización del código actual en caso de ser necesario
