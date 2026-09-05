@@ -32,3 +32,6 @@ La interfaz permite ingresar edad, ingresos, puntaje, antigüedad laboral y esta
 - `EvaluationContext`: diccionario de variables de entrada y salida.
 
 La solución corresponde a un DSL interno porque el lenguaje de reglas se expresa construyendo objetos C# que forman el AST; no existe un parser independiente para archivos escritos por usuarios finales.
+
+## Declaracion sobre el uso de IA en el desarrollo de este proyecto
+- Se utilizó la asistencia de inteligencia artifical generatica para la creacion de la interfaz gráfica usando WPF y la corrección y refactorizacion de la lógica
