@@ -34,4 +34,5 @@ La interfaz permite ingresar edad, ingresos, puntaje, antigüedad laboral y esta
 La solución corresponde a un DSL interno porque el lenguaje de reglas se expresa construyendo objetos C# que forman el AST; no existe un parser independiente para archivos escritos por usuarios finales.
 
 ## Declaracion sobre el uso de IA en el desarrollo de este proyecto
-- Se utilizó la asistencia de inteligencia artifical generatica para la creacion de la interfaz gráfica usando WPF y la corrección y refactorizacion de la lógica
+- Se utilizó la asistencia de inteligencia artifical generativa para la creacion de la interfaz gráfica usando WPF y la corrección y refactorizacion de la lógica
+**PROMPT UTILIZADO**:A partir de este código y reglas de aprobación de crédito, necesito asistencia en la creación de una interfaz gráfica utilizando WPF y refactorización del código actual en caso de ser necesario
